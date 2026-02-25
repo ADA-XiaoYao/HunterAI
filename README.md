@@ -56,7 +56,7 @@ hunterai/
 
 ```bash
 # Install
-git clone https://github.com/alfanet/hunterai
+git clone https://github.com/ADA-XiaoYao/hunterai
 cd hunterai
 pip install -e .
 
